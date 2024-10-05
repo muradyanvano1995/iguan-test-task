@@ -16,3 +16,4 @@
 
 7. **Note**:
     - Only `admin` user can log in or reset the password.
+    - If you are using Windows WSL, use the WSL terminal to run docker (or sail) commands
